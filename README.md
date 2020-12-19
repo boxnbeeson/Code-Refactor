@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Refactor
   Practice rewriting source code, making it more legible and giving it proper semantic structure.
   <br>
@@ -18,3 +19,8 @@
   Email: <beeson.jp@gmail.com>
   ## <a name="license"></a>License
   MIT
+=======
+# HomeworkNumeroUno
+Submission for Homework Assignment #1
+The task for this homework assignment was to rewrite source code, making it more legible and giving it proper semantic structure.
+>>>>>>> f3a582128e3dc7fe6bf2fe44b230831c04bfd398
